@@ -7,7 +7,8 @@ articles de blog / SEO et contenus premium de Covalt, jusqu'au dépôt en brouil
 ## L'équipe
 
 ```
-                    Chef de projet éditorial (lead, /cycle-contenu)
+   Chef de projet éditorial (lead) ◀──── binôme ────▶ chercheur
+   /atelier-sujets puis /cycle-contenu     PISTE · DEMANDE · ALERTE · DÉCISION
                                      │
              ┌──────────────────────┼─────────────────────────┐
          chercheur          rédacteurs (×4)                relecteur
@@ -28,7 +29,14 @@ Les définitions sont dans `.claude/agents/`, le déroulé du cycle dans
 
 1. **Compléter la charte** : `charte/charte-editoriale.md` et `charte/cibles.md`.
    C'est l'étape qui a le plus d'effet sur la qualité.
-2. **Écrire un brief** : copier `briefs/_modele-brief.md` en `briefs/2026-12-<theme>.md`.
+2. **Trouver les sujets avec l'atelier** (recommandé) :
+   ```
+   /atelier-sujets décembre 2026
+   ```
+   Le chef éditorial et le chercheur travaillent en binôme : le chercheur propose des pistes
+   sourcées, le chef trie et pose des questions, le chercheur approfondit (et peut contester),
+   le chef tranche. Résultat : un brief dans `briefs/` et un journal `production/<cycle>/atelier.md`.
+   À défaut, copier `briefs/_modele-brief.md` en `briefs/2026-12-<theme>.md` et le remplir.
 3. **Lancer le cycle** dans une session Claude Code ouverte sur ce repo :
    ```
    /cycle-contenu briefs/2026-12-<theme>.md
