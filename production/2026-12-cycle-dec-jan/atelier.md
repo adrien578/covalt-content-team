@@ -191,3 +191,68 @@ clôture 31/12), potentiel SEO (site positionné sur fiducie / covenants), sourc
 Tu peux contester n'importe quel choix (DÉSACCORD), en particulier l'écart du pacte Papin.
 Réponse attendue : oui — RÉPONSE par point, ajoutée à ce fichier, et dossiers de recherche
 `recherche/<sujet>.md` pour les pistes retenues (1, 3-4, 6, 7, 10).
+
+### [2026-11-18] RÉPONSE — chercheur → chef — Tour 3 : réponses aux 7 questions
+Dossiers créés dans `recherche/` : `01-refinancement-bce-decembre.md`, `03-immobilier-pro-marchands-de-biens.md`, `06-fiducie-surete-procedures-collectives.md`, `07-covenants-cloture-2026.md`, `10-plateformes-gestion-extinctive.md` (ce dernier couvre aussi la piste 11).
+
+**1. (#1) Consensus BCE et mur de refinancement des PME / ETI**
+- Réponse courte : les économistes attendent unanimement une hausse le 17/12. **Aucun mur de refinancement chiffré n'existe pour les PME / ETI.**
+- Sondage Reuters du 10 au 12/11/2026 : les 71 économistes interrogés attendent une hausse du taux de dépôt à 2,75 %. 46 y voient le pic, 25 attendent une hausse de plus, surtout au T1 2027. Source : Reuters via FXStreet (https://www.fxstreet.com/news/economists-agree-ecb-will-hike-rates-to-275-in-december-reuters-poll-shows-202611121202). La page était inaccessible (403) et les chiffres viennent d'un résumé de recherche : **à vérifier avant publication.** UBS et Deutsche Bank prévoient une dernière hausse puis une pause [R].
+- Mur de refinancement : la Banque de France parle d'un mur 2027-2028 **pour l'État** (350 à 400 Md€ d'émissions par an), pas pour les entreprises. Échéancier de la dette des PME / ETI en 2027 : **non trouvé**. Je déconseille l'expression « mur de refinancement des PME » dans les contenus.
+- Faits primaires disponibles : taux de 3,78 % en septembre (Banque de France, 12/11/2026) ; capacité de remboursement des PME / ETI en dégradation (Bulletin Banque de France n° 265-3, juillet 2026, [R]).
+
+**2. (#3) Crédits immobiliers pro arrivant à échéance en 2027**
+- Réponse courte : aucun volume précis pour 2027. En revanche, **il existe mieux que l'ACPR seule** : AEW (29/10/2026) chiffre le déficit de refinancement de l'immobilier d'entreprise français à **12,6 Md€, soit 22 % des volumes de prêts. C'est le plus fort ratio d'Europe et le seul en hausse.** En Europe, le déficit est d'environ 45 Md€ sur 2027-2029 (Allnews, reprise du communiqué AEW, https://allnews.ch/node/160996). La période exacte couverte par le chiffre France est à confirmer sur le rapport AEW.
+- Colliers évoque environ 12 Md€ de dette arrivant à échéance en 2026-2027 en France [R, à vérifier].
+- Proxy ACPR (à fin 2025) : 27,8 % des crédits à 2 ans ou moins et 25,6 % in fine.
+
+**3. (#5) Lower mid-market**
+- Réponse courte : **non trouvé.** Aucune source publique (France Invest / Deloitte, presse, Banque de France) ne chiffre le segment 0,5-5 M€ ni même celui sous 10 M€ en France. Le « lower mid-market » des gérants commence généralement autour de 10 à 20 M€ de ticket (exemple : Candriam). Preqin, le Deloitte Private Debt Deal Tracker et l'AFME n'ont pas été accessibles ou ne présentent pas cette granularité dans ce que j'ai trouvé. L'édition 2026 de l'étude France Invest / Deloitte est attendue au printemps 2027.
+- → La piste 5 **tombe** sauf si Adrien fournit des chiffres internes anonymisés. Le seul fait public utilisable est la hausse de la taille moyenne des unitranches à environ 116 M€ au S1 2026 (Aether via Option Finance, 18/09/2026), qui reste un indice et non une preuve.
+
+**4. (#6) Questions des prêteurs et textes de référence**
+- **Aucun verbatim** (forum, LinkedIn) n'a été trouvé sur ce sujet très spécialisé. Le dossier 06 propose 8 questions **reformulées à partir de la doctrine** : la convention de mise à disposition, les classes de parties affectées, la créance non échue, le plan de cession, les délais en liquidation, la comparaison avec l'hypothèque et le nantissement.
+- Textes : C. civ. 2011 à 2030, 2372-1 à 2372-6, 2488-1 à 2488-5, 2488-6 à 2488-12 ; C. com. L. 622-7, L. 622-13 VI, L. 622-23-1, L. 631-14, L. 626-30, L. 641-12-1, L. 642-7 ; ordonnances 2021-1192 et 2021-1193.
+- **À faire valider par un juriste : tout le régime.** Légifrance n'était pas accessible avec mes outils et les contenus des articles viennent de la doctrine. Trois points sont particulièrement fragiles : le vote des bénéficiaires de fiducie dans les classes (L. 626-30, source secondaire seulement), la portée de L. 641-12-1 (je n'en ai lu que le début) et le sort de la convention de mise à disposition en cas de cession.
+
+**5. (#7) Dossier SEO covenants**
+- Mot-clé principal : « covenant bancaire ». Secondaires : bris de covenant, waiver bancaire, covenants financiers, ratio de levier dette nette / EBITDA, DSCR covenant, test de covenant à la clôture, exigibilité anticipée, renégociation de covenants, suivi des covenants, agent des sûretés. Intention : informationnelle avec une part de recherche de solution.
+- **Limite : je ne peux pas lire le classement Google France ni les volumes.** Les résultats français observés sont : Hayot Expertise (16/03/2026), Cegid (mis à jour le 20/01/2026), Culture Financière et Boursedescredits. Il leur manque tous le point de vue du prêteur ou de l'agent, le calendrier autour de la clôture, une procédure de waiver détaillée, le lien avec les sûretés et des données sourcées. C'est l'espace pour Covalt.
+- Données sur les bris de covenants et les renégociations : **non trouvé** pour la France. Octus avancerait qu'environ 14 % des emprunteurs de dette privée ont moins de 10 % de marge sur leurs covenants, mais le périmètre n'est pas vérifié : à ne pas utiliser en l'état. Le taux de défaut de Fitch (6 %) concerne les États-Unis.
+
+**6. (#9, #11) Vérification des décisions**
+- **Cass. com., 06/05/2026, n° 25-12.493 : confirmée** par deux sources indépendantes : CMS Francis Lefebvre (note du 02/06/2026, publiée dans Option Finance le 26/05/2026) et la Lettre CREDA de la CCI Paris IdF (27/05/2026). L'arrêt est publié au Bulletin. Il apporte deux solutions : la consultation écrite peut valoir autorisation d'agir si le contrat d'émission la prévoit, et le défaut de pouvoir est régularisable jusqu'à ce que le juge statue. Je n'ai pas lu le texte officiel ; une divergence existe entre l'art. 121 et l'art. 126 du CPC, à trancher sur le texte de l'arrêt. **Piste 11 confirmée.**
+- Fait nouveau qui renforce le couplage 10 + 11 : dans cette affaire, **la représentante de la masse était une plateforme de financement participatif.** Quand la plateforme cumule ce rôle et disparaît, les obligataires perdent leur représentant. Les noms des parties ne doivent pas être repris.
+- **CA Versailles, 11/09/2025 : non vérifiable.** Je ne l'ai trouvée que dans la note du cabinet Kohen. Aucune seconde source, aucun numéro de RG, aucune trace dans les bases accessibles (Doctrine, Lextenso, Dalloz). **Le cas tombe, et avec lui la piste 9** telle que formulée. Le sujet « agent des sûretés pour les pools » reste valable sans cas jurisprudentiel pour un cycle ultérieur.
+
+**7. (#10) L'ECSP impose-t-il un plan de continuité ?**
+- Réponse courte : **oui.** L'art. 12, § 2, point j) du règlement (UE) 2020/1503 exige, dans la demande d'agrément, un plan de continuité des activités garantissant, en cas de défaillance, « la continuité des services critiques liés aux investissements existants » et la bonne administration des contrats avec les clients. Le règlement délégué (UE) 2022/2116 du 13/07/2022 précise le contenu : son art. 3 couvre notamment **la poursuite de la gestion des prêts en cours**, les paiements, la conservation des actifs et l'information des clients ; son art. 5 impose les trois scénarios de défaillance les plus probables.
+- Sources : texte de l'ECSP reproduit par legislation.gov.uk (version d'origine UE, en anglais) et RTS reproduit par LawPlayer. EUR-Lex n'était pas lisible avec mes outils : **il faut récupérer la formulation française officielle avant toute citation.** Historique : la position-recommandation AMF DOC-2018-02 (01/02/2018) traitait déjà de la gestion extinctive.
+- Cet angle permet de traiter le sujet sans viser une plateforme (cf. dossier 10, angle 1).
+
+**Bilan des pistes « à creuser »** : 5 tombe sans données internes ; 9 tombe faute de vérification ; 11 est confirmée et couplée à 10.
+Réponse attendue : oui — votre décision sur les pistes 5, 9 et 11 et sur le DÉSACCORD ci-dessous.
+
+### [2026-11-18] DÉSACCORD — chercheur → chef — Ne pas écarter la reprise de PME avec le pacte Papin
+Votre choix : écarter la piste 2 pour ce cycle (pacte non voté, cible salariés différente de l'OBO sponsorless).
+Je suis d'accord pour écarter **le pacte Papin**. Je ne suis pas d'accord pour écarter **le sujet de la reprise de PME**, pour trois raisons :
+- **Équilibre des offres** : après le tri, Loan Connect ne garde que 2 sujets (1 et 3-4), dont un sujet d'actualité éphémère (BCE). Protection et Servicing en gardent 3 (6, 7, 10). La direction demande l'accent sur le brokerage (charte, orientation du S2 2026), et la piste 5 tombe faute de données. La charte cite explicitement « Reprise de PME, OBO sponsorless » dans la colonne « On écrit ».
+- **Le besoin est documenté indépendamment du budget** : près de 370 000 entreprises employeuses pourraient être concernées par une transmission d'ici 2030 (Bpifrance Le Lab), contre environ 37 000 cessions-transmissions par an (BPCE L'Observatoire). Ces deux chiffres viennent de L'Essentiel de l'Éco du 19/10/2026 (https://lessentieldeleco.fr/9002-transmission-des-pme-le-prix-demande-est-il-reellement-financable/), qui cite aussi l'accès au financement comme l'un des principaux obstacles des repreneurs. L'Opération nationale Transmission de l'État court jusqu'au 23/04/2027 [R]. Limite : le chiffre « 30 % des repreneurs en difficulté de financement » **n'est toujours pas vérifié** (PDF du guide ministériel illisible) et ne doit pas être utilisé.
+- **L'angle tient sans le pacte** : « Financer une reprise de PME quand la banque ne suit que partiellement (OBO sponsorless, crédit vendeur, dette senior complémentaire) ». Il est evergreen et ne dépend pas du vote.
+Ma proposition : 1 post éditorial Connect en janvier sur le financement de la reprise, sans mention du pacte Papin (ou une seule ligne au conditionnel s'il est voté d'ici là). Je produis le dossier de recherche si vous validez, en commençant par une source primaire Bpifrance Le Lab.
+Réponse attendue : oui / non — DÉCISION du chef.
+
+### [2026-11-18] DÉCISION — chef → chercheur — Tour 4 : arbitrage
+- **DÉSACCORD reprise de PME : accepté.** L'argument d'équilibre est juste (Connect sous-représenté
+  alors que la direction demande l'accent brokerage) et le besoin est sourcé hors budget. Un post
+  Connect en janvier : « financer une reprise quand la banque ne suit qu'en partie ». Pas de pacte
+  Papin, pas de « 30 % des repreneurs ». Chiffres Bpifrance Le Lab / BPCE à remonter à la source primaire.
+- **#5 tombe** (proposer à Adrien des chiffres internes anonymisés pour un cycle futur).
+- **#9 tombe** ; le sujet agent des sûretés reviendra sans jurisprudence.
+- **#11 confirmée**, couplée à #10, sous réserve d'Adrien sur la sensibilité « plateformes ».
+- **« Mur de refinancement » interdit** pour les entreprises (il concerne l'État).
+- **#6 (premium)** : validation par un juriste obligatoire avant diffusion ; le premium part en
+  plan dès ce cycle, livraison mi-janvier, avant Confidence.
+- Points à vérifier avant publication repris dans le brief (Reuters, AEW, art. 121/126 CPC,
+  Légifrance, ECSP en français).
+Brief provisoire : `briefs/2026-12-cycle-dec-jan.md`, soumis à Adrien.
